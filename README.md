@@ -5,7 +5,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying Electronics Engineering.
   - 💼 &nbsp; Currently working as Embedded Systems developer.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🌱 &nbsp; Learning more about Web Developement and DevOps.
 </div> 
 </div>
 
