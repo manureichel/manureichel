@@ -17,7 +17,5 @@ Electronics Engineer | Cloud
 
 <p align="left"> <a href="https://www.github.com/manureichel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> <a href="https://www.linkedin.com/in/manuel-reichel/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<div align="center" dir="auto">
-<img height="180em" src="https://camo.githubusercontent.com/e72adad4c72f09ace57898c4ed752f4891cbb8bb5ea1694dda489b8f4f9d48ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d46506f6c696368266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manureichel&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
-</div>
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manureichel&hide=javascript,css,scss,html&theme=tokyonight)
+
