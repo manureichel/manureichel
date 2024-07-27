@@ -1,11 +1,11 @@
 Hi 👋 My name is Manuel Reichel
 ===============================
 
-Electronics Engineer | Cloud
+Electronics Engineer | Devops
 ------------------------
 
 * 🌍  I'm based in Argentina.
-* 🖥️  See my blog, portfolio and resume at [www.manuelreichel.com.ar](http://www.manuelreichel.com.ar/)
+* 💼  Currently working as DevOps Engineer.
 * ✉️  You can contact me at [manuelreichel@gmail.com](mailto:manuelreichel@gmail.com)
 
 ### Languages and Tools
